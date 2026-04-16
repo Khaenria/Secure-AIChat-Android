@@ -25,11 +25,11 @@ The system is divided into two main specialized modules:
 
 ### 1. RAG Workflow (Long-term Memory)
 Detailed technical flow of how the assistant retrieves and processes local data to augment LLM prompts.
-> [**View RAG Documentation ↗**](./docs/RAG_WORKFLOW.md)
+> [**View RAG Documentation ↗**](./app/docs/RAG_WORKFLOW.md)
 
-### 2. Security Architecture (Nightmare Protocol)
+### 2. Security Architecture (Night Protocol)
 A comprehensive "Defense in Depth" strategy protecting the application from static and dynamic analysis.
-> [**View Security Documentation ↗**](./docs/SECURITY_ARCHITECTURE.md)
+> [**View Security Documentation ↗**](./app/docs/SECURITY_ARCHITECTURE.md)
 
 ---
 
