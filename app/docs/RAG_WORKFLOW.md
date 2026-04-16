@@ -6,7 +6,7 @@ A practical implementation of Generative AI in mobile environments, focusing on 
 
 ### Architecture & RAG Workflow
 
-![Diagrama de flujo del sistema](Diagra.png)
+![Diagrama de flujo del sistema](../assets/images/architecture_v1.png)
 
 ###  AI & Data Context
 * **RAG Workflow:** Integrated a custom memory engine to provide the LLM with relevant historical context.
