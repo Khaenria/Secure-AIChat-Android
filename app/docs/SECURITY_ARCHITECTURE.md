@@ -6,7 +6,7 @@ The security model follows a strict "Defense in Depth" approach, ensuring that t
 
 ## 🛡️ Core Security Layers
 
-![Diagrama de flujo del sistema](security_layers.png)
+![Diagrama de flujo del sistema](../assets/images/security_layers.png)
 
 ### Static Obfuscation & Minimization
 The application payload is protected using advanced bytecode obfuscation techniques.
