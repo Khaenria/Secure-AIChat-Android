@@ -14,7 +14,7 @@ This assistant goes beyond simple LLM integration. It implements a local memory 
 
 ### Key Pillars:
 - **Intelligent Retrieval:** Local database-driven context for personalized AI interactions.
-- **Hardened Security:** Multi-layered defense (The "Nightmare Protocol") to protect sensitive API assets.
+- **Hardened Security:** Multi-layered defense (The "Defense Protocol") to protect sensitive API assets.
 - **Native Performance:** Optimized C++ core for cryptographic and logic-heavy operations.
 
 ---
